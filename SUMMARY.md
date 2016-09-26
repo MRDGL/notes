@@ -8,5 +8,5 @@
 * [C语言编程环境](cyu_yan_bian_cheng_huan_jing.md)
 * [linux网课](linux wang_ke.md)
 * [Shell命令](shell命令.md)
-* vmvaretools安装（虚拟机）
+* [vmvaretools安装（虚拟机）](vmvaretools安装（虚拟机）.md)
 
